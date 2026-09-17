@@ -1,4 +1,0 @@
-Matched 40 examples.
-Overall Pearson r = 0.42
-Overall within-1-point agreement = 88%
-Mean human overall = 4.13, mean judge overall = 4.41
